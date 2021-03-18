@@ -7,8 +7,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.vscode
-venv
 env/
 build/
 develop-eggs/
@@ -60,6 +58,9 @@ target/
 
 # DotEnv configuration
 .env
+
+# virtual environment configuration
+venv
 
 # Database
 *.db
